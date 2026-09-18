@@ -1,0 +1,1400 @@
+[
+  {
+    "date": "2026-09-19",
+    "subject": "MUS III 325",
+    "type": "h",
+    "topic": "Ana-L2: Parotid+temporal+infratemporal 1"
+  },
+  {
+    "date": "2026-09-19",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "PhysL1: Eye anatomy/IOP"
+  },
+  {
+    "date": "2026-09-19",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Hist-L1: Outer/middle coat eye"
+  },
+  {
+    "date": "2026-09-20",
+    "subject": "MUS III 325",
+    "type": "h",
+    "topic": "Ana-L3: Infratemporal 2"
+  },
+  {
+    "date": "2026-09-20",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "HistL2: Lens/inner coat"
+  },
+  {
+    "date": "2026-09-20",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Bio-L1: Muscle disease"
+  },
+  {
+    "date": "2026-09-21",
+    "subject": "MUS III 325",
+    "type": "h",
+    "topic": "Ana-L4: Infratemporal 3"
+  },
+  {
+    "date": "2026-09-21",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Hist-L3: Inner ear"
+  },
+  {
+    "date": "2026-09-21",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "PhysL4: Ear components"
+  },
+  {
+    "date": "2026-09-22",
+    "subject": "MUS III 325",
+    "type": "h",
+    "topic": "PhysL2: Iris/lens/accommodation"
+  },
+  {
+    "date": "2026-09-22",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Hist-L4: Oral mucosa/lip/tongue"
+  },
+  {
+    "date": "2026-09-22",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Ana-L1: Scalp & face"
+  },
+  {
+    "date": "2026-09-23",
+    "subject": "MUS III 325",
+    "type": "h",
+    "topic": "PhysL3: Retina/photopic/scotopic"
+  },
+  {
+    "date": "2026-09-26",
+    "subject": "MUS III 325",
+    "type": "h",
+    "topic": "Ana-L5: Bony orbit"
+  },
+  {
+    "date": "2026-09-26",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Ana-L9: Great vessels neck"
+  },
+  {
+    "date": "2026-09-26",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "HistL5: Salivary glands"
+  },
+  {
+    "date": "2026-09-27",
+    "subject": "MUS III 325",
+    "type": "h",
+    "topic": "Ana-L6: Vessels/nerves orbit"
+  },
+  {
+    "date": "2026-09-27",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "AnaL10: Submandibular region"
+  },
+  {
+    "date": "2026-09-27",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "HistL6: Skin epidermis/dermis"
+  },
+  {
+    "date": "2026-09-27",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "PhysL5: Auditory pathway"
+  },
+  {
+    "date": "2026-09-28",
+    "subject": "MUS III 325",
+    "type": "h",
+    "topic": "Ana-L7: Cervical fascia/post triangle"
+  },
+  {
+    "date": "2026-09-28",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "AnaL11: Submandibular/sublingual gland"
+  },
+  {
+    "date": "2026-09-28",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "HistL7: Skin glands/hair"
+  },
+  {
+    "date": "2026-09-28",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Path-L1: Salivary gland"
+  },
+  {
+    "date": "2026-09-29",
+    "subject": "MUS III 325",
+    "type": "h",
+    "topic": "Ana-L8: Ant triangle neck/infrahyoid"
+  },
+  {
+    "date": "2026-09-29",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Path-L2: Oral cavity"
+  },
+  {
+    "date": "2026-09-29",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "MicroL1: Bacterial skin 1"
+  },
+  {
+    "date": "2026-09-29",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Para-L1: Onchocerca/Loa loa"
+  },
+  {
+    "date": "2026-09-30",
+    "subject": "MUS III 325",
+    "type": "h",
+    "topic": "AnaL12: Oral cavity (tongue/soft palate)"
+  },
+  {
+    "date": "2026-10-03",
+    "subject": "MUS III 325",
+    "type": "h",
+    "topic": "AnaL13: Pharynx"
+  },
+  {
+    "date": "2026-10-03",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "AnaL16: Lymphatic drainage H&N"
+  },
+  {
+    "date": "2026-10-03",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "MicroL2: Bacterial skin 2"
+  },
+  {
+    "date": "2026-10-04",
+    "subject": "MUS III 325",
+    "type": "h",
+    "topic": "AnaL14: Cranial nerves 7,8"
+  },
+  {
+    "date": "2026-10-04",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "ParaL2: Leishmania"
+  },
+  {
+    "date": "2026-10-04",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Para-L3: Entomology 1"
+  },
+  {
+    "date": "2026-10-05",
+    "subject": "MUS III 325",
+    "type": "h",
+    "topic": "AnaL15: Cranial nerves 9,10,11,12"
+  },
+  {
+    "date": "2026-10-05",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Para-L4: Entomology 2"
+  },
+  {
+    "date": "2026-10-05",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Path-L3: Skin diseases BCC"
+  },
+  {
+    "date": "2026-10-06",
+    "subject": "MUS III 325",
+    "type": "h",
+    "topic": "AnaL17: Development H&N"
+  },
+  {
+    "date": "2026-10-06",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "AnaL18: Development face/tongue"
+  },
+  {
+    "date": "2026-10-07",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Path-SGD1: Oral cavity"
+  },
+  {
+    "date": "2026-10-07",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Micro-SGD1: Skin infections"
+  },
+  {
+    "date": "2026-10-10",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Path-L4: Naevus/melanoma"
+  },
+  {
+    "date": "2026-10-10",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Path-L5: Sebaceous cyst"
+  },
+  {
+    "date": "2026-10-10",
+    "subject": "MUS III 325",
+    "type": "p",
+    "topic": "Ana-P1 (عملي)"
+  },
+  {
+    "date": "2026-10-10",
+    "subject": "MUS III 325",
+    "type": "p",
+    "topic": "Ana-P2 (عملي)"
+  },
+  {
+    "date": "2026-10-11",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "MicroL3: Viral skin 1"
+  },
+  {
+    "date": "2026-10-11",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "MicroL4: Viral skin 2"
+  },
+  {
+    "date": "2026-10-11",
+    "subject": "MUS III 325",
+    "type": "p",
+    "topic": "Ana-P3 (عملي)"
+  },
+  {
+    "date": "2026-10-11",
+    "subject": "MUS III 325",
+    "type": "p",
+    "topic": "Ana-P4 (عملي)"
+  },
+  {
+    "date": "2026-10-12",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "MicroL5: Fungal skin"
+  },
+  {
+    "date": "2026-10-12",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Para-L5: Entomology 3"
+  },
+  {
+    "date": "2026-10-12",
+    "subject": "MUS III 325",
+    "type": "p",
+    "topic": "Ana-P5 (عملي)"
+  },
+  {
+    "date": "2026-10-12",
+    "subject": "MUS III 325",
+    "type": "p",
+    "topic": "Ana-P6 (عملي)"
+  },
+  {
+    "date": "2026-10-13",
+    "subject": "MUS III 325",
+    "type": "e",
+    "topic": "Para-L6: Entomology 4"
+  },
+  {
+    "date": "2026-10-13",
+    "subject": "MUS III 325",
+    "type": "p",
+    "topic": "Ana-P7 (عملي)"
+  },
+  {
+    "date": "2026-10-13",
+    "subject": "MUS III 325",
+    "type": "p",
+    "topic": "Ana-P8 (عملي)"
+  },
+  {
+    "date": "2026-10-14",
+    "subject": "MUS III 325",
+    "type": "p",
+    "topic": "Ana-P9 (عملي)"
+  },
+  {
+    "date": "2026-10-14",
+    "subject": "MUS III 325",
+    "type": "p",
+    "topic": "Bio-P1 (عملي)"
+  },
+  {
+    "date": "2026-10-15",
+    "subject": "MUS III 325",
+    "type": "p",
+    "topic": "الخميس 15/10: Hist-P1 + Hist-P2 (عملي)"
+  },
+  {
+    "date": "2026-10-16",
+    "subject": "MUS III 325",
+    "type": "p",
+    "topic": "الجمعة 16/10: Hist-P3 + Phys-P1 + Phys-P2 + Path-P1 + Path-P2 + Micro-P1 (عملي — يوم مكثف)"
+  },
+  {
+    "date": "2026-10-17",
+    "subject": "MUS III 325",
+    "type": "p",
+    "topic": "السبت 17/10: Para-P1 + Para-P2 (عملي) + مراجعة تراكمية شاملة (ابدأ بالأناتومي)"
+  },
+  {
+    "date": "2026-10-17",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Ana-L1: Spinal Cord"
+  },
+  {
+    "date": "2026-10-17",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Hist-L1: Nerve endings 1"
+  },
+  {
+    "date": "2026-10-17",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Hist-L2: Spinal cord gray matter"
+  },
+  {
+    "date": "2026-10-17",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Bio-P1 (عملي): Qualitative AA detection"
+  },
+  {
+    "date": "2026-10-18",
+    "subject": "MUS III 325",
+    "type": "p",
+    "topic": "الحد 18/10 صبحًا: مراجعة خفيفة جدًا بس — الامتحان الساعة 9:30"
+  },
+  {
+    "date": "2026-10-18",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Phys-L2: Synaptic transmission"
+  },
+  {
+    "date": "2026-10-18",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Phys-L1: Organization of NS"
+  },
+  {
+    "date": "2026-10-18",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Phys-P1 (عملي): Somatic sensation exam"
+  },
+  {
+    "date": "2026-10-18",
+    "subject": "MUS III 325",
+    "type": "exam",
+    "topic": "End-Module Exam (نظري+عملي)"
+  },
+  {
+    "date": "2026-10-19",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Ana-L4: Midbrain"
+  },
+  {
+    "date": "2026-10-19",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Phys-L3: Neuron organization"
+  },
+  {
+    "date": "2026-10-19",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Hist-P1 (عملي): Nerve ending/receptors"
+  },
+  {
+    "date": "2026-10-20",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Ana-L3: Pons"
+  },
+  {
+    "date": "2026-10-20",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Phys-L4: Sensory receptors"
+  },
+  {
+    "date": "2026-10-20",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Ana-P1 (عملي): Norma basalis interna"
+  },
+  {
+    "date": "2026-10-21",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Ana-L2: Medulla"
+  },
+  {
+    "date": "2026-10-21",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Bio-L1: Ketogenesis"
+  },
+  {
+    "date": "2026-10-21",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Bio-L2: Central role of AA"
+  },
+  {
+    "date": "2026-10-24",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Phys-L7: Transmission of somatic sensations"
+  },
+  {
+    "date": "2026-10-24",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Bio-L3: Special AA metabolism 1"
+  },
+  {
+    "date": "2026-10-24",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Hist-P3 (عملي): Medulla oblongata"
+  },
+  {
+    "date": "2026-10-25",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Ana-L10: Thalamus/hypothalamus/3rd ventricle"
+  },
+  {
+    "date": "2026-10-25",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Bio-L4: Special AA metabolism 2"
+  },
+  {
+    "date": "2026-10-25",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Hist-P2 (عملي): Spinal cord"
+  },
+  {
+    "date": "2026-10-26",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Ana-L7: Functional areas cerebrum I"
+  },
+  {
+    "date": "2026-10-26",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Hist-L3: Spinal cord white matter"
+  },
+  {
+    "date": "2026-10-26",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Hist-L4: Brainstem (medulla/pons/midbrain)"
+  },
+  {
+    "date": "2026-10-26",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Ana-P3 (عملي): Cerebellum & 4th ventricle"
+  },
+  {
+    "date": "2026-10-27",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Ana-L8: Functional areas cerebrum II"
+  },
+  {
+    "date": "2026-10-27",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Ana-L6: External features cerebrum"
+  },
+  {
+    "date": "2026-10-27",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Phys-L5: Sensory code"
+  },
+  {
+    "date": "2026-10-27",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Ana-P2 (عملي): External features of brainstem"
+  },
+  {
+    "date": "2026-10-28",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Ana-L9: White matter/basal nuclei/internal capsule"
+  },
+  {
+    "date": "2026-10-28",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Ana-L5: Cerebellum & 4th ventricle"
+  },
+  {
+    "date": "2026-10-28",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Phys-L6: Somatic sensations classification"
+  },
+  {
+    "date": "2026-10-28",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Phys-L8: Thermoreceptive sensations"
+  },
+  {
+    "date": "2026-10-31",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Hist-L5: Cerebellar cortex & nuclei"
+  },
+  {
+    "date": "2026-10-31",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Hist-L6: Cerebrum"
+  },
+  {
+    "date": "2026-10-31",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Phys-L10: Pain control system"
+  },
+  {
+    "date": "2026-10-31",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Phys-P2 (عملي): Thermoreceptor tests"
+  },
+  {
+    "date": "2026-11-01",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Bio-L5: Special AA metabolism 3"
+  },
+  {
+    "date": "2026-11-01",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Phys-L12: Spinal reflex motor function"
+  },
+  {
+    "date": "2026-11-01",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Hist-P4 (عملي): Pons (3 levels)"
+  },
+  {
+    "date": "2026-11-02",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Phys-L11: Sensory lesions/syringomyelia"
+  },
+  {
+    "date": "2026-11-02",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Phys-L13: Stretch reflex"
+  },
+  {
+    "date": "2026-11-02",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Ana-P4 (عملي): Cerebral hemisphere surfaces"
+  },
+  {
+    "date": "2026-11-03",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Phys-L9: Mechanoreceptive/pain sensations"
+  },
+  {
+    "date": "2026-11-03",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Bio-L6: One carbon unit metabolism"
+  },
+  {
+    "date": "2026-11-03",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "PharmaL3: Sedatives & Hypnotics-1"
+  },
+  {
+    "date": "2026-11-04",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Ana-L11: Blood supply of brain 1"
+  },
+  {
+    "date": "2026-11-04",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "PharmaL1: CNS Stimulants-1"
+  },
+  {
+    "date": "2026-11-04",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "PharmaL2: CNS Stimulants-2"
+  },
+  {
+    "date": "2026-11-07",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Phys-L14: Spinal cord transection"
+  },
+  {
+    "date": "2026-11-07",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Phys-P3 (عملي): Reflexes/tendon jerks"
+  },
+  {
+    "date": "2026-11-08",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Path-L1: Inflammation"
+  },
+  {
+    "date": "2026-11-08",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Hist-P6 (عملي): Cerebrum/cerebellar cortex"
+  },
+  {
+    "date": "2026-11-09",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Bio-L7: Free radicals"
+  },
+  {
+    "date": "2026-11-09",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "PharmaL4: Sedatives & Hypnotics-2"
+  },
+  {
+    "date": "2026-11-09",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Hist-P5 (عملي): Midbrain (2 levels)"
+  },
+  {
+    "date": "2026-11-10",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Phys-L15: Brainstem motor function/RAS"
+  },
+  {
+    "date": "2026-11-10",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "PharmaL5: Anxiolytic Drugs"
+  },
+  {
+    "date": "2026-11-10",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Ana-P6 (عملي): Cranial cavity/dural sinuses"
+  },
+  {
+    "date": "2026-11-11",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "AnaL12: Blood supply of brain 2"
+  },
+  {
+    "date": "2026-11-11",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Path-L2: Haemorrhage"
+  },
+  {
+    "date": "2026-11-11",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Ana-P5 (عملي): Inferior surface of brain"
+  },
+  {
+    "date": "2026-11-14",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Bio-SGD1: Inborn errors of metabolism"
+  },
+  {
+    "date": "2026-11-14",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Phys-L16: Equilibrium/vestibular apparatus"
+  },
+  {
+    "date": "2026-11-14",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Phys-P4 (عملي): Coordination tests"
+  },
+  {
+    "date": "2026-11-15",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Ana-L13: Meninges & CSF circulation"
+  },
+  {
+    "date": "2026-11-15",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Ana-L14: Dural venous sinuses"
+  },
+  {
+    "date": "2026-11-15",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Ana-L15: Development of CNS"
+  },
+  {
+    "date": "2026-11-16",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "PharmaL7: General Anesthetics-2"
+  },
+  {
+    "date": "2026-11-16",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "PharmaL8: Local Anesthetics"
+  },
+  {
+    "date": "2026-11-16",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Ana-P8 (عملي): Horizontal section of brain"
+  },
+  {
+    "date": "2026-11-17",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "PharmaL6: General Anesthetics-1"
+  },
+  {
+    "date": "2026-11-17",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "PharmaL9: AntiParkinsonians-1"
+  },
+  {
+    "date": "2026-11-17",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Ana-P7 (عملي): Sagittal section cerebrum/brainstem"
+  },
+  {
+    "date": "2026-11-18",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Phys-L17: Cerebellum motor function"
+  },
+  {
+    "date": "2026-11-18",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Path-L3: Peripheral neuritis"
+  },
+  {
+    "date": "2026-11-18",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Path-L4: Brain tumours"
+  },
+  {
+    "date": "2026-11-21",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Phys-L19: Motor cortex/pyramidal connections"
+  },
+  {
+    "date": "2026-11-21",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "MicroL1: Meningitis 1"
+  },
+  {
+    "date": "2026-11-21",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Bio-SGD2: Oxidative stress & brain ischemia"
+  },
+  {
+    "date": "2026-11-21",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Phys-P5 (عملي): Cranial nerve examination"
+  },
+  {
+    "date": "2026-11-22",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "PharmaL13: AntiEpileptics-3"
+  },
+  {
+    "date": "2026-11-22",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "MicroL2: Meningitis 2"
+  },
+  {
+    "date": "2026-11-22",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Path-L7: Neurofibroma"
+  },
+  {
+    "date": "2026-11-23",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "PharmaL11: AntiEpileptics-1"
+  },
+  {
+    "date": "2026-11-23",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Phys-L18: Motor cortex organization"
+  },
+  {
+    "date": "2026-11-23",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "MicroL3: Encephalitis 1"
+  },
+  {
+    "date": "2026-11-23",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Path-L6: Schwannoma"
+  },
+  {
+    "date": "2026-11-24",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "PharmaL12: AntiEpileptics-2"
+  },
+  {
+    "date": "2026-11-24",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "PharmaL10: AntiParkinsonians-2"
+  },
+  {
+    "date": "2026-11-24",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Para-L1: Amoebic meningoencephalitis"
+  },
+  {
+    "date": "2026-11-24",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Path-L5: Brain tumours 2"
+  },
+  {
+    "date": "2026-11-25",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Phys-L20: Basal ganglia motor function"
+  },
+  {
+    "date": "2026-11-25",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Phys-L21: UMN vs LMN lesions"
+  },
+  {
+    "date": "2026-11-25",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Path-SGD1: Brain tumours"
+  },
+  {
+    "date": "2026-11-25",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Micro-P1 (عملي): CNS infections"
+  },
+  {
+    "date": "2026-11-28",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "PharmaL16: AntiDepressants-1"
+  },
+  {
+    "date": "2026-11-28",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "MicroL5: Bacterial CNS infections"
+  },
+  {
+    "date": "2026-11-28",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Pharma-P1 (عملي): Management of epilepsy"
+  },
+  {
+    "date": "2026-11-29",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "PharmaL17: AntiDepressants-2"
+  },
+  {
+    "date": "2026-11-29",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "MicroL4: Encephalitis 2"
+  },
+  {
+    "date": "2026-11-30",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "Phys-SGD1: Alertness/sleep/EEG + limbic system"
+  },
+  {
+    "date": "2026-11-30",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "PharmaL18: Anti-Manic/Hallucinogenic"
+  },
+  {
+    "date": "2026-12-01",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "PharmaL15: AntiPsychotics-2"
+  },
+  {
+    "date": "2026-12-01",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Para-L2: Parasitic larvae affecting CNS"
+  },
+  {
+    "date": "2026-12-01",
+    "subject": "NEU II 326",
+    "type": "p",
+    "topic": "Micro-SGD1 (عملي): CNS infections"
+  },
+  {
+    "date": "2026-12-02",
+    "subject": "NEU II 326",
+    "type": "h",
+    "topic": "PharmaL14: AntiPsychotics-1"
+  },
+  {
+    "date": "2026-12-02",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Path-L8: Congenital anomalies/hydrocephalus"
+  },
+  {
+    "date": "2026-12-02",
+    "subject": "NEU II 326",
+    "type": "e",
+    "topic": "Path-SGD2: Congenital anomalies"
+  },
+  {
+    "date": "2026-12-05",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Hist-L1: Pituitary gland"
+  },
+  {
+    "date": "2026-12-05",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Hist-L2: Thyroid & Parathyroid"
+  },
+  {
+    "date": "2026-12-05",
+    "subject": "NEU II 326",
+    "type": "exam",
+    "topic": "End-Module Exam"
+  },
+  {
+    "date": "2026-12-06",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Phys-L2: Pituitary hormones, GH"
+  },
+  {
+    "date": "2026-12-07",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Phys-L1: Endocrine glands & control of secretion"
+  },
+  {
+    "date": "2026-12-08",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Ana-L2: Thyroid & parathyroid glands"
+  },
+  {
+    "date": "2026-12-09",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Ana-L1: Pituitary gland"
+  },
+  {
+    "date": "2026-12-12",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Bio-L2: Diabetes mellitus 1"
+  },
+  {
+    "date": "2026-12-12",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Ana-L4: Development of endocrine glands"
+  },
+  {
+    "date": "2026-12-12",
+    "subject": "END 327",
+    "type": "p",
+    "topic": "Ana-P1 (عملي): Location/parts/relations of endocrine glands"
+  },
+  {
+    "date": "2026-12-12",
+    "subject": "END 327",
+    "type": "p",
+    "topic": "Path-P1 (عملي): Thyroid"
+  },
+  {
+    "date": "2026-12-13",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Bio-L1: Regulation of blood glucose"
+  },
+  {
+    "date": "2026-12-13",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Hist-L3: Suprarenal gland"
+  },
+  {
+    "date": "2026-12-13",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Pharm-L1: Hypothalamic/pituitary hormones"
+  },
+  {
+    "date": "2026-12-14",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Phys-SGD2: Mechanism of action/intracellular signaling"
+  },
+  {
+    "date": "2026-12-14",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Hist-L4: Chromaffin system/pineal gland"
+  },
+  {
+    "date": "2026-12-14",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Path-L1: Pituitary hyper/hypopituitarism"
+  },
+  {
+    "date": "2026-12-15",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Phys-L4: Thyroid hormone formation"
+  },
+  {
+    "date": "2026-12-15",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Phys-L3: Hypo/Hyperfunction of GH"
+  },
+  {
+    "date": "2026-12-15",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Phys-SGD1: Chemical messengers/hormone classification"
+  },
+  {
+    "date": "2026-12-16",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Bio-L3: Diabetes mellitus 2"
+  },
+  {
+    "date": "2026-12-16",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Ana-L3: Suprarenal gland, Pancreas"
+  },
+  {
+    "date": "2026-12-16",
+    "subject": "END 327",
+    "type": "p",
+    "topic": "Hist-P1 (عملي): Pituitary/thyroid/parathyroid/suprarenal"
+  },
+  {
+    "date": "2026-12-16",
+    "subject": "END 327",
+    "type": "p",
+    "topic": "Bio-P1 (عملي): Thyroid function testing"
+  },
+  {
+    "date": "2026-12-19",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Phys-SGD3: Posterior pituitary hormones/ADH"
+  },
+  {
+    "date": "2026-12-19",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Phys-SGD4: Panhypopituitarism/hyperprolactinemia"
+  },
+  {
+    "date": "2026-12-19",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Bio-L4: Biochemical basis of nutrition"
+  },
+  {
+    "date": "2026-12-19",
+    "subject": "END 327",
+    "type": "p",
+    "topic": "Path-P2 (عملي): Adrenal"
+  },
+  {
+    "date": "2026-12-20",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Pharm-L4: Ca homeostasis + corticosteroids 1"
+  },
+  {
+    "date": "2026-12-20",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Bio-L5: Obesity"
+  },
+  {
+    "date": "2026-12-20",
+    "subject": "END 327",
+    "type": "p",
+    "topic": "Bio-P2 (عملي): Insulin resistance labs"
+  },
+  {
+    "date": "2026-12-21",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Path-L2: Hyperthyroidism/Graves/Goiter"
+  },
+  {
+    "date": "2026-12-21",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Path-L3: Thyroid tumours"
+  },
+  {
+    "date": "2026-12-21",
+    "subject": "END 327",
+    "type": "p",
+    "topic": "Hist-P2 (عملي): Chromaffin system/pineal/endocrine pancreas"
+  },
+  {
+    "date": "2026-12-22",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Phys-L6: Ca++ homeostasis"
+  },
+  {
+    "date": "2026-12-22",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Path-L4: Hyperparathyroidism"
+  },
+  {
+    "date": "2026-12-22",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Pharm-L5: Corticosteroids 2"
+  },
+  {
+    "date": "2026-12-23",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Phys-L5: Hypo vs Hyperthyroidism"
+  },
+  {
+    "date": "2026-12-23",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "PharmL2: Thyroid hormones/antithyroid drugs 1"
+  },
+  {
+    "date": "2026-12-23",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "PharmL3: Thyroid hormones/antithyroid drugs 2"
+  },
+  {
+    "date": "2026-12-26",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Bio-SGD1: DKA on diabetic foot ulcer"
+  },
+  {
+    "date": "2026-12-26",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Path-L5: Adrenal cortex (Cushing/Conn)"
+  },
+  {
+    "date": "2026-12-26",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Pharm-SGD2: Management of DM 2"
+  },
+  {
+    "date": "2026-12-27",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Phys-SGD6: Glucose transporters/DM pathophysiology"
+  },
+  {
+    "date": "2026-12-27",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Path-L7: DM types/complications (Revision)"
+  },
+  {
+    "date": "2026-12-27",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Pharm-SGD1: Management of DM 1"
+  },
+  {
+    "date": "2026-12-28",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Phys-L8: Insulin secretion/glucose homeostasis"
+  },
+  {
+    "date": "2026-12-28",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Pharm-L6: Drugs for DM 1"
+  },
+  {
+    "date": "2026-12-28",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Path-SGD1: Hypothalamus/pituitary + pancreas/DM"
+  },
+  {
+    "date": "2026-12-29",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Phys-SGD5: Cushing/Hyperaldosteronism"
+  },
+  {
+    "date": "2026-12-29",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Pharm-L7: Drugs for DM 2"
+  },
+  {
+    "date": "2026-12-29",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Path-L6: Adrenal medulla tumours/MEN"
+  },
+  {
+    "date": "2026-12-30",
+    "subject": "END 327",
+    "type": "h",
+    "topic": "Phys-L7: Suprarenal cortical hormones"
+  },
+  {
+    "date": "2026-12-30",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Bio-L6: Fed fast cycle 1"
+  },
+  {
+    "date": "2026-12-30",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "Bio-L7: Fed fast cycle 2"
+  },
+  {
+    "date": "2026-12-30",
+    "subject": "END 327",
+    "type": "e",
+    "topic": "SGD2: Nutritional disorders"
+  },
+  {
+    "date": "2027-01-02",
+    "subject": "END 327",
+    "type": "exam",
+    "topic": "End-Module Exam"
+  },
+  {
+    "date": "2027-01-12",
+    "subject": "MUS III 325",
+    "type": "exam",
+    "topic": "Final Comprehensive Exam"
+  },
+  {
+    "date": "2027-01-14",
+    "subject": "END 327",
+    "type": "exam",
+    "topic": "Final Comprehensive Exam (12:00 PM)"
+  }
+]
